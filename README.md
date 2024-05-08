@@ -1,4 +1,4 @@
-![Uploading zillow-clone-sangvish.png…]()
+![zillow-clone-sangvish](https://github.com/sangvishtechnologies/zillow-clone/assets/161323540/c8f8c56a-fec9-434b-8bfc-8e45f147669e)
 
 
 <h1 align="center"> Zillow Clone to Build a Dynamic Real Estate Platform </h1> 
