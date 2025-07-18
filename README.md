@@ -4,7 +4,7 @@
 <h1 align="center"> Launch a Powerful Zillow-like Real Estate Platform Instantly </h1> 
 
 
-Welcome to the official repository of **Zillow Clone Script** by **Sangvish** – a ready-made, white-label real estate portal designed to help you build and launch a property listing platform like Zillow, faster and more affordably.
+Welcome to the official repository of **[Zillow Clone](https://sangvish.com/zillow-clone/)** by **Sangvish** – a ready-made, white-label real estate portal designed to help you build and launch a property listing platform like Zillow, faster and more affordably.
 
 ---
 
@@ -37,7 +37,7 @@ Whether you're a startup, broker, or enterprise looking to digitize your real es
 
 ## ✨ Key Features
 
-A Zillow clone app works as a digital focus for the real estate market, connecting buyers, sellers, renters, etc. Here's a breakdown of its key roles:
+A [Zillow Clone App](https://sangvish.com/zillow-clone/) works as a digital focus for the real estate market, connecting buyers, sellers, renters, etc. Here's a breakdown of its key roles:
 * **Buyers:** Users who seek to buy property. They look for properties depending on their decisions, such as location, price range, and amenities. 
 * **Sellers:** Individuals or real estate brokers who provide homes for sale. They make listings with information like price, location, images, and descriptions. 
 * **Renters:** Users looking for rental homes. They can look into available rentals, filter them depending on their needs, and approach landlords or property managers. 
@@ -165,7 +165,7 @@ You don’t need to build everything from the ground up. A Zillow clone script c
 
 **💰 2. Cost-Effective Development**: 
 
-Developing a real estate platform from scratch is expensive. With a Zillow clone, you can save on development, design, and testing costs while still getting a high-end product.
+Developing a real estate platform from scratch is expensive. With a [Zillow Clone](https://sangvish.com/zillow-clone/), you can save on development, design, and testing costs while still getting a high-end product.
 
 **🔧 3. Full Customization**: 
 
@@ -240,7 +240,7 @@ This product comes with a **Lifetime License** and can be fully rebranded as per
 
 ## 📢 Start Your Real Estate Business Today!
 
-Build your own branded real estate portal like Zillow with Sangvish’s Zillow Clone Script. Perfect for entrepreneurs, brokers, and agencies who want to digitize real estate buying and selling efficiently.
+Build your own branded real estate portal like Zillow with Sangvish’s [Zillow Clone Script](https://sangvish.com/zillow-clone/). Perfect for entrepreneurs, brokers, and agencies who want to digitize real estate buying and selling efficiently.
 
 > “Why build from scratch when you can launch smart with Sangvish?”
 
